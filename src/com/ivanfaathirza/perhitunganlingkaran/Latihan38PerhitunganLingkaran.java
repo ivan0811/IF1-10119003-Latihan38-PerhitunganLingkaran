@@ -2,6 +2,16 @@ package com.ivanfaathirza.perhitunganlingkaran;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Ivan
+ * NAMA         : Ivan Faathirza
+ * KELAS        : IF1
+ * NIM          : 10119003
+ * Deskripsi Program : program ini untuk menghitung lingkaran dari input user, berbasis objek dengan 
+ * instansiasi objek lingkaran
+ */
+
 public class Latihan38PerhitunganLingkaran {
     static Scanner scan = new Scanner(System.in);
     private static double dimeterLingkaran;
